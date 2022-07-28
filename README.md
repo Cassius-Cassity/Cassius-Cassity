@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gem Stones Vibrant BST and I am excited to collaborate on back-end projects related to this](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
 
-- 🌱 I’m currently learning **Greater details about React Native**
+- 🌱 I’m currently learning **greater details about React Native**
 
 - 💬 Ask me about **Anything regarding JavaScript**
 
