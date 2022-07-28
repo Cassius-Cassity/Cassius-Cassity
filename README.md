@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Levi Smith</h1>
-<h3 align="center">A passionate full-Stack Developer from Idaho</h3>
+<h3 align="center">A passionate Full-Stack Developer from Idaho</h3>
 
-- 🔭 I’m currently working on [Gem Stones Vibrant BST](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
+- 🔭 I’m currently working on [Gem Stones Vibrant BST and I am excited to collaborate on back-end projects related to this](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
 
-- 🌱 I’m currently learning **In depth understanding React Native**
-
-- 👯 I’m looking to collaborate on [Gem Stones Vibrant BST Back-End](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
+- 🌱 I’m currently learning **Greater details about React Native**
 
 - 💬 Ask me about **Anything regarding JavaScript**
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [My-Resume](https://docs.google.com/document/d/14-e0uuv1wJBOm15v9ixN0ys7El5WdrZ4tZXZDgv4gVY/edit?usp=sharing)
 
-- ⚡ Fun fact **I have 2 Wonderful daughters**
+- ⚡ Fun fact **I have 2 Wonderful daughters that keep me young**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
