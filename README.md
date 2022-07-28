@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **greater details about React Native**
 
-- 💬 Ask me about **Anything regarding JavaScript**
+- 💬 Ask me about **anything regarding JavaScript**
 
 - 📫 How to reach me **levisept26@gmail.com**
 
 - 📄 Know about my experiences [My-Resume](https://docs.google.com/document/d/14-e0uuv1wJBOm15v9ixN0ys7El5WdrZ4tZXZDgv4gVY/edit?usp=sharing)
 
-- ⚡ Fun fact **I have 2 Wonderful daughters that keep me young**
+- ⚡ Fun fact **I have 2 wonderful daughters that keep me young**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
