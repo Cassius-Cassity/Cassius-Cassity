@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **In depth understanding React Native**
 
-- 👯 I’m looking to collaborate on [Gem Stones Vibrant BST](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
-
-- 🤝 I’m looking for help with [Gem Stones Vibrant BST Back-End](git@github.com:Cassius-Cassity/Gem-Stones-Vibrant-BST-Back-End.git)
+- 👯 I’m looking to collaborate on [Gem Stones Vibrant BST Back-End](https://github.com/Cassius-Cassity/Gem-Stones-Vibrant-BST-Front-End)
 
 - 💬 Ask me about **Anything regarding JavaScript**
 
 - 📫 How to reach me **levisept26@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14-e0uuv1wJBOm15v9ixN0ys7El5WdrZ4tZXZDgv4gVY/edit?usp=sharing](https://docs.google.com/document/d/14-e0uuv1wJBOm15v9ixN0ys7El5WdrZ4tZXZDgv4gVY/edit?usp=sharing)
+- 📄 Know about my experiences [My-Resume](https://docs.google.com/document/d/14-e0uuv1wJBOm15v9ixN0ys7El5WdrZ4tZXZDgv4gVY/edit?usp=sharing)
 
 - ⚡ Fun fact **I have 2 Wonderful daughters**
 
